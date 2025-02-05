@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi there! I'm Dul, a passionate software engineer based in Brisbane, Australia. I enjoy working with Microsoft technologies. 
+Hi there! I'm Dul, a software engineer based in Brisbane, Australia. I enjoy working with Microsoft technologies. 
 
 ### Skills
 - Programming Languages: C#
